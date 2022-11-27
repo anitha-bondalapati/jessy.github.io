@@ -1,0 +1,171 @@
+.stylinglogo{
+    width: 160px;
+    height: 70px;
+    padding: 5px;
+
+}
+/*#gool{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 0px;
+}*/
+#go {
+    background-color: white;
+    color:black;
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+    margin: 10px;
+
+}
+#go:hover{
+    background-color:aliceblue;
+    color: blueviolet;
+    border: 0px;
+}
+.btn{
+    font-size: 25px;
+    padding: 5px;
+    
+}
+.bgimg1{
+    background-image: url("https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F2947%2Ftrend20200930101748.jpg");
+    background-size: cover;
+    height: 90vh;
+}
+.head1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+}
+.buttonst{
+    color: white;
+    background-color: red;
+    width: 230px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.bgcolor2{
+    background-color: white;
+}
+.head2{
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 750;
+    text-align: center;
+}
+.para2{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+.carding{
+    text-align: center;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: 1px;
+    border-color: azure;
+    border-radius: 16px;
+}
+.carding:hover{
+    background-color: aquamarine;
+}
+.cardimage{
+    width: 250px;
+    height: 300px;
+    padding: auto;
+}
+.chead{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 16px;
+    padding-top: 15px;
+    font-weight: bold;
+}
+.cpara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-top: 15px;
+}
+.cpara1{
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+.offers{
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+.hollicardbottom{
+    
+    height: 100vh;
+    width: 300vw;
+}
+.imageres{
+    float: left;
+    padding-top: 95PX;
+    padding-bottom: 56px;
+    height: 680px;
+    width: 520px;
+}
+.holliheading{
+    float: left;
+    padding-left: 200px;
+    padding-top: 100px;
+    color: darkblue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.hollipara1{
+    padding-top: 170px;
+    padding-right: 300px;
+    font-size: 20px;
+    text-align: right;
+    font-weight: bold;
+    padding-bottom: 10px;
+    
+}
+.para4{
+    font-weight: 10px;
+    color: black;
+    font-size: 17px;
+}
+
+.hollipara12{
+    padding-top: 5px;
+    padding-right: 300px;
+    font-size: 23px;
+    text-align: right;
+    font-weight: bold;
+    
+}
+
+.hollipara{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+
+
+
